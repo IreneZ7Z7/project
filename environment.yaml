@@ -4,6 +4,9 @@ channels:
   - defaults
 dependencies:
   - ipykernel
-  - python=3.10
-  - scikit-learn=1.2.1
+  - jupyterlab
+  - python>=3.10
+  - pandas
+  - matplotlib
+  - scikit-learn
 prefix: /opt/anaconda3/envs/dstoolbox
