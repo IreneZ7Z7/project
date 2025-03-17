@@ -26,13 +26,14 @@ This project is focused on analyzing a dataset to gain insights through data vis
 
 ### How to Run the Analysis
 
-1. Install necessary libraries by creating the environment using the `environment.yaml` file in terminal:
+1. Clone the repository to local.
+2. Install necessary libraries by creating the environment using the `environment.yaml` file in terminal:
 
 `conda env create -f environment.yaml`
 
-2. Activate the environment:
+3. Activate the environment:
 
 `conda activate project-env`
 
-3. Launch JupyterLab
-4. Open and run the `Report.ipynb` notebook from the `reports/` folder 
+4. Launch JupyterLab
+5. Open and run the `Report.ipynb` notebook from the `reports/` folder.
